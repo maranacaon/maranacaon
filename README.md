@@ -3,7 +3,10 @@ Eu sou a Marana Caon
 
 🦋🐞🦔🍄🍃🌼🌻
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maranacaon)](https://github.com/maranacaon/github-readme-stats)
+<div>
+  <a href="https://github.com/maranacaon">
+  <img height="180em" src="(https://github-readme-stats.vercel.app/api?username=maranacaon&theme=panda&show_icons=true)"/>
+</div>
 
 
 🌈 Fale comigo no email: maranavaal@gmail.com (:
