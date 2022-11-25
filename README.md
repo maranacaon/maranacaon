@@ -5,7 +5,6 @@ Me chamo Marana Caon, sou formada em Cinema de Animação e atualmente estou em 
 
 <div style="display: inline_block">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=maranacaon&theme=panda&show_icons=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maranacaon&layout=compact&theme=panda"/>
 </div>
 <br/>
 
