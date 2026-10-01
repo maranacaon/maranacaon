@@ -44,8 +44,7 @@ Desenvolvedora de software focada na criação de interfaces modernas e eficient
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maranacaon&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maranacaon&layout=compact&theme=dark&hide=html,css" alt="Linguagens mais usadas" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maranacaon&theme=dark" alt="GitHub Streak" />
 </div>
 
 ---
