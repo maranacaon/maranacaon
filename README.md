@@ -1,8 +1,3 @@
-Oiie, seja bem-vinda(o)! 🦋🐸🐞
-##
-
-Me chamo Marana Caon, sou formada em Cinema de Animação e atualmente estou em transição de carreira para a área de desenvolvimento web. 
-
 <div style="display: inline_block">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=maranacaon&theme=panda&show_icons=true"/>
 </div>
