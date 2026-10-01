@@ -1,25 +1,63 @@
-<div style="display: inline_block">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=maranacaon&theme=panda&show_icons=true"/>
-</div>
-<br/>
+## Olá, eu sou a Marana Caon! 👋
 
-✨ Conhecimentos e estudos:
-<div style="display: inline_block">
-  <img align="center" alt="Javascript" height="30" widht:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/>
-  <img align="center" alt="React" height="30" widht:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
-  <img align="center" alt="HTML" height="30" widht:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
-  <img align="center" alt="CSS" height="30" widht:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
-  <img align="center" alt="Node.js" height="30" widht:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
-  <img align="center" alt="Typescript" height="30" widht:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript"/>
-  <img align="center" alt="firebase" height="30" widht:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase"/>
-</div><br>
+ Engenhara de Software Front-end / Full-stack | React, Next.js, Node.js, NestJS, Ruby
 
-🐌 Descobrindo:
-<br>
-<div>
-  <img align="center" alt="Python" height="30" widht:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-  <img align="center" alt="C++" height="30" widht:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+---
+
+### 🚀 Sobre Mim
+
+Desenvolvedora de software focada na criação de interfaces modernas e eficientes. Atualmente cursando MBA de Engenharia de Software na USP/Esalq.
+
+- 💻 **Foco atual:** Desenvolvimento Web (Front-end & Full-stack)
+- 🛠️ **Tech Stack Principal:** React, Next.js, Node.js, NestJS, Ruby, TypeScript
+- 📖 **Expandindo conhecimentos:** C#, PHP (Laravel) e exploração de integrações com IA
+- 🌐 **Idiomas:** Português (Nativo) e Inglês (Avançado)
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+**Front-end & UI**:
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Back-end & Banco de Dados**:
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Ferramentas & Outros**:
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📊 Estatísticas no GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maranacaon&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maranacaon&layout=compact&theme=dark&hide=html,css" alt="Linguagens mais usadas" height="175" />
 </div>
+
+---
+
+### 🌈 Vamos conversar?
+
+<a href="https://www.linkedin.com/in/marana-caon/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:maranavaal@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
 ##
 🌈 Fale comigo por aqui:
