@@ -1,6 +1,6 @@
 ## Olá, eu sou a Marana Caon! 👋
 
- Engenhara de Software Front-end / Full-stack | React, Next.js, Node.js, NestJS, Ruby
+Engenheira de Software Full-stack | React, Next.js, Node.js, NestJS, Ruby.
 
 ---
 
@@ -49,15 +49,6 @@ Desenvolvedora de software focada na criação de interfaces modernas e eficient
 </div>
 
 ---
-
-### 🌈 Vamos conversar?
-
-<a href="https://www.linkedin.com/in/marana-caon/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:maranavaal@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
 
 ##
 🌈 Fale comigo por aqui:
