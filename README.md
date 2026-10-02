@@ -44,7 +44,7 @@ Desenvolvedora de software focada na criação de interfaces modernas e eficient
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maranacaon&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maranacaon&theme=cobalt&hide_border=true&border_radius=8&short_numbers=true" alt="GitHub Streak" />
 </div>
 
 ---
