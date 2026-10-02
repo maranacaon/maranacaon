@@ -1,4 +1,4 @@
-## Olá, eu sou a Marana Caon! 👋
+## Olá, eu sou a Marana Caon! 🌞🦋
 
 Engenheira de Software Full-stack | React, Next.js, Node.js, NestJS, Ruby.
 
