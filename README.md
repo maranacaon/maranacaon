@@ -51,4 +51,6 @@ Software developer focused on building modern, performant, and user-friendly web
 
 🌈 **Let's connect:**
 
-<a href="https://www.linkedin.com/in/marana-caon/"><img src="
+<a href="https://www.linkedin.com/in/marana-caon/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
