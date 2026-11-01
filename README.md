@@ -46,7 +46,6 @@ Software developer focused on building modern, performant, and user-friendly web
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maranacaon&theme=cobalt&hide_border=true&border_radius=8&short_numbers=true" alt="GitHub Streak" />
 </div>
-
 ---
 
 🌈 **Let's connect:**
