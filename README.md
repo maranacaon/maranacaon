@@ -9,8 +9,8 @@ Full-stack Software Engineer | React, Next.js, Node.js, NestJS, Ruby
 Software developer focused on building modern, performant, and user-friendly web interfaces. Currently pursuing an MBA in Software Engineering at USP/Esalq.
 
 - 💻 **Current Focus:** Web Development (Front-end & Full-stack)
-- 🛠️ **Core Tech Stack:** React, Next.js, Node.js, NestJS, Ruby, TypeScript
-- 📖 **Expanding Knowledge:** C#, PHP (Laravel), and exploring AI integrations
+- 🛠️ **Core Tech Stack:** React, Next.js, Node.js, NestJS, Ruby, TypeScript, C#
+- 📖 **Expanding Knowledge:** PHP (Laravel), and exploring AI integrations
 - 🌐 **Languages:** Portuguese (Native) and English (Advanced)
 
 ---
