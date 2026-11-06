@@ -1,6 +1,6 @@
 ## Hi, I'm Marana Caon! 🌞🦋
 
-Full-stack Software Engineer | React, Next.js, Node.js, NestJS, Ruby
+Full-stack Software Engineer | React, Next.js, Node.js, NestJS, Ruby, C#
 
 ---
 
